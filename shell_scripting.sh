@@ -18,5 +18,5 @@
  git init
  git add .
  git commit -m "my first commit"
- git remote add origin https://github.com/katyhannath/shell_script.git
- #git push -u origin master
+ #git remote add origin https://github.com/katyhannath/shell_script.git
+ git push -u origin master
